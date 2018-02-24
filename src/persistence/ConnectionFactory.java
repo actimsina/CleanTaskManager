@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 public class ConnectionFactory {
 
-	private static final String URI = "jdbc:mysql://192.168.10.10:3306/ddoocp";
+	private static final String URI = "jdbc:mysql://192.168.10.10:3306/taskmgr";
 	private static final String USER = "homestead";
 	private static final String PWD = "secret";
 

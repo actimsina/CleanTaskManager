@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.mysql.jdbc.Statement;
+import java.sql.Statement;
 
 import core.User;
 import gateway.UserGateway;
